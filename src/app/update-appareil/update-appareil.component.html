@@ -1,0 +1,25 @@
+<h3 class="ms-5 p-3 text-center text-primary">Modifier Appareil</h3>
+<div class="p-5">
+  <form class="form" name="updateForm" (ngSubmit)="onSubmit()">
+    <div class="mb-3">
+      <label for="labelle" class="form-label">Libellé</label>
+      <input type="text" class="form-control w-75" id="labelle" placeholder="Libellé" [(ngModel)]="appareils.labelle" name="labelle">
+    </div>
+    <div class="mb-3">
+      <label for="description" class="form-label">Description</label>
+      <input type="text" class="form-control w-75" id="description" placeholder="Description" [(ngModel)]="appareils.description" name="description">
+    </div>
+    <div class="mb-3">
+      <label for="state" class="form-label">État</label>
+      <input type="number" min="0" max="1" class="form-control w-75" id="state" placeholder="État" [(ngModel)]="appareils.state" name="state">
+    </div>
+    <div class="mb-3">
+      <label for="categories" class="form-label">Catégorie</label>
+      <select class="form-select w-75" id="categories" [(ngModel)]="appareils.categories" name="categories">
+        <option value="" disabled selected>Sélectionner une catégorie</option>
+        <option *ngFor="let category of categorie" [value]="category.id">{{ category.id }} - {{category.labelle}}</option>
+      </select>
+    </div>
+    <button type="submit" class="btn btn-secondary">Modifier</button>
+  </form>
+</div>

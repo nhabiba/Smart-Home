@@ -1,0 +1,22 @@
+button {
+    width: 100px;
+    height: 50px;
+    border-radius: 25px; /* Pour créer un bouton arrondi */
+    cursor: pointer; /* Afficher un curseur de type main au survol */
+    transition: background-color 0.3s ease; /* Pour une transition douce */
+  }
+  
+  .on-state {
+    background-color: green;
+    color: white; /* Couleur du texte */
+  }
+  
+  .off-state {
+    background-color: red;
+    color: white; /* Couleur du texte */
+  }
+
+ 
+  
+
+  

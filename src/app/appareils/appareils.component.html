@@ -1,0 +1,52 @@
+<h3 class="ms-4 p-3 text-center text-primary">Gestion des Appareils</h3>
+<div class="p-4">
+  <form class="form" name="registerForm" (ngSubmit)="ngSubmit()">
+    <div class="mb-3">
+      <label for="labelle" class="form-label fs-5">Libellé</label>
+      <input type="text" class="form-control w-75" id="labelle" placeholder="Libellé" [(ngModel)]="appareils.labelle" name="labelle">
+    </div>
+    <div class="mb-3">
+      <label for="description" class="form-label fs-5">Description</label>
+      <input type="text" class="form-control w-75" id="description" placeholder="Description" [(ngModel)]="appareils.description" name="description">
+    </div>
+    <div class="mb-3">
+      <label for="state" class="form-label fs-5">État</label>
+      <input type="number" min="0" max="1" class="form-control w-75" id="state" placeholder="État" [(ngModel)]="appareils.state" name="state">
+    </div>
+    <div class="mb-3">
+      <label for="categories" class="form-label fs-5">Catégorie</label>
+      <select class="form-select w-75" id="categories" [(ngModel)]="appareils.categories" name="categories">
+        <option value="" disabled selected>Sélectionnez une catégorie</option>
+        <option *ngFor="let category of categorie" [value]="category.id">{{ category.id }} - {{category.labelle}}</option>
+      </select>
+    </div>
+    <button type="submit" class="btn btn-success">Ajouter</button>
+  </form>
+</div>
+
+<table class="table  mt-4">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Libellé</th>
+      <th scope="col">Description</th>
+      <th scope="col">État</th>
+      <th scope="col">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let appareils of appareil">
+      <td>{{appareils.id}}</td>
+      <td>{{appareils.labelle}}</td>
+      <td>{{appareils.description}}</td>
+      <button (click)="toggleState()" [ngClass]="{'on-state': appareils.state, 'off-state': !appareils.state}">
+        <span *ngIf="appareils.state">ON</span>
+        <span *ngIf="!appareils.state">OFF</span>
+      </button>
+     <td>
+        <button class="btn btn-danger me-2" (click)="deleteAppareil(appareils.id)">Supprimer</button>
+        <button class="btn btn-secondary" (click)="updateAppareils(appareils.id)">Mettre à Jour</button>
+      </td>
+    </tr>
+  </tbody>
+</table>

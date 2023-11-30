@@ -1,0 +1,10 @@
+<h3 class="ms-4 p-3 text-center text-primary">Mise à Jour de Catégorie</h3>
+<div class="p-4">
+  <form class="form" (ngSubmit)="onSubmit()">
+    <div class="mb-3">
+      <label for="labelle" class="form-label fs-5">Libellé</label>
+      <input type="text" class="form-control w-50" name="labelle" placeholder="Libellé" [(ngModel)]="categories.labelle">
+    </div>
+    <button type="submit" class="btn btn-outline-secondary mt-3">Mettre à Jour</button>
+  </form>
+</div>
