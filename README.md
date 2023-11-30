@@ -17,3 +17,6 @@
 ### Backend:
 #### Accédez au répertoire backend/.
 #### Utilisez Maven ou Gradle pour construire et exécuter le backend.
+## Usage:
+#### Accédez à l'application via le navigateur web en visitant l'URL fournie par le serveur Angular (généralement http://localhost:4200).
+#### Utilisez l'interface utilisateur pour contrôler les équipements domestiques connectés.
