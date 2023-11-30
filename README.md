@@ -45,6 +45,11 @@
 ![image](https://github.com/nhabiba/Smart-Home/assets/109957486/9e123e3a-97b4-459b-a32b-e8a4a59ef1b8)
 ### Modifier un Appareil :
 ![image](https://github.com/nhabiba/Smart-Home/assets/109957486/56ffd2a1-c458-4d25-b330-17b75f12df41)
+###  Vérification dans la Catégorie je constate que la catégorie contient deux appareil:
+![image](https://github.com/nhabiba/Smart-Home/assets/109957486/6e0cd49b-a88e-48de-8510-ded3ea152a0a)
+#### Avant la supprission:
+
+
 
 
 
