@@ -20,3 +20,4 @@
 ## Usage:
 #### Accédez à l'application via le navigateur web en visitant l'URL fournie par le serveur Angular (généralement http://localhost:4200).
 #### Utilisez l'interface utilisateur pour contrôler les équipements domestiques connectés.
+### La gestion des catégories fait référence à la manière dont les éléments, produits ou informations sont organisés, ajoutés, modifiés ou supprimés dans une structure de classification spécifique.
