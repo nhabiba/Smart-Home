@@ -48,6 +48,9 @@
 ###  Vérification dans la Catégorie je constate que la catégorie contient deux appareil:
 ![image](https://github.com/nhabiba/Smart-Home/assets/109957486/6e0cd49b-a88e-48de-8510-ded3ea152a0a)
 #### Avant la supprission:
+![image](https://github.com/nhabiba/Smart-Home/assets/109957486/fa3dabae-95bd-4954-90f6-5bcece6374f3)
+#### Aprés la supprission:
+
 
 
 
