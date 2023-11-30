@@ -50,6 +50,8 @@
 #### Avant la supprission:
 ![image](https://github.com/nhabiba/Smart-Home/assets/109957486/fa3dabae-95bd-4954-90f6-5bcece6374f3)
 #### Aprés la supprission:
+![image](https://github.com/nhabiba/Smart-Home/assets/109957486/e82d94a5-0c15-4f2e-9642-604bb9bc83d0)
+### Vérification dans la base de donnée:
 
 
 
