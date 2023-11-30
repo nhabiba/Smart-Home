@@ -38,6 +38,10 @@
 ### Vérification dans la base de donnée:
 ![image](https://github.com/nhabiba/Smart-Home/assets/109957486/3a8be58b-ab64-45b2-a743-75422df2c4f6)
 ### La gestion des appareils domestiques consiste à superviser et contrôler les appareils et équipements de la maison pour améliorer l'efficacité, la commodité et souvent la consommation énergétique.
+![image](https://github.com/nhabiba/Smart-Home/assets/109957486/8a3c43e0-c654-470c-8e74-4353341be4fd)
+### Ajouter une Appareil :
+
+
 
 
 
