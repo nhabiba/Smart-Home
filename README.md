@@ -25,3 +25,7 @@
 ### Ajouter une catégorie : Cette fonctionnalité permet d'ajouter de nouvelles catégories à votre système:
 ![image](https://github.com/nhabiba/Smart-Home/assets/109957486/6e6d1336-85db-4423-9c54-7f82776dd92f)
 ### Vérification dans la base de donnée:
+
+![image](https://github.com/nhabiba/Smart-Home/assets/109957486/da09a41b-26a2-4b7f-a578-8e85b4a9c890)
+
+
