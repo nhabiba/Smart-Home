@@ -21,4 +21,4 @@
 #### Accédez à l'application via le navigateur web en visitant l'URL fournie par le serveur Angular (généralement http://localhost:4200).
 #### Utilisez l'interface utilisateur pour contrôler les équipements domestiques connectés.
 ##### La gestion des catégories fait référence à la manière dont les éléments, produits ou informations sont organisés, ajoutés, modifiés ou supprimés dans une structure de classification spécifique.
-![Gestion des Catégorie](https://github.com/nhabiba/Smart-Home/issues/1#issue-2018884238)
+![image](https://github.com/nhabiba/Smart-Home/assets/109957486/83e6595d-56fd-4686-a3be-2021a0ac2987)
