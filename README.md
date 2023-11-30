@@ -30,6 +30,10 @@
 ![image](https://github.com/nhabiba/Smart-Home/assets/109957486/d5aa4d00-03ee-4265-ac9f-b69c0bb03851)
 ### Vérification dans la base de donnée:
 ![image](https://github.com/nhabiba/Smart-Home/assets/109957486/e5ec2f88-af48-4d03-b3d2-131be2173af4)
+### Supprimer une catégorie : Permet de retirer une catégorie existante du système:
+
+### Vérification dans la base de donnée:
+
 
 
 
