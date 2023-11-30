@@ -21,6 +21,9 @@
 #### Accédez à l'application via le navigateur web en visitant l'URL fournie par le serveur Angular (généralement http://localhost:4200).
 #### Utilisez l'interface utilisateur pour contrôler les équipements domestiques connectés.
 ### La gestion des catégories fait référence à la manière dont les éléments, produits ou informations sont organisés, ajoutés, modifiés ou supprimés dans une structure de classification spécifique:
+## Base de donnée:
+#### Un diagramme de classe est un outil de modélisation visuelle utilisé en génie logiciel pour représenter la structure statique et les relations entre les entités d'un système. Voici une image simplifiée d'un diagramme de classe pour les entités "Appareil" et "Catégorie" :
+
 ![image](https://github.com/nhabiba/Smart-Home/assets/109957486/e14b23dc-ebec-40b3-86a9-d9fbb57e6539)
 ### Ajouter une catégorie : Cette fonctionnalité permet d'ajouter de nouvelles catégories à votre système:
 ![image](https://github.com/nhabiba/Smart-Home/assets/109957486/6e6d1336-85db-4423-9c54-7f82776dd92f)
@@ -54,7 +57,11 @@
 ### Vérification dans la base de donnée:
 ![image](https://github.com/nhabiba/Smart-Home/assets/109957486/f988ceb0-dd30-43a3-a4f3-a21849d08fff)
 ## Si on clique sur le button OFF il devient ON :
+### Avant:
 ![image](https://github.com/nhabiba/Smart-Home/assets/109957486/c0c7b978-aec8-4d20-ab5a-b4d5fcd031e2)
+### Aprés:
+![image](https://github.com/nhabiba/Smart-Home/assets/109957486/255b7d71-3b7c-496d-8560-eff6e66d5756)
+
 
 
 
