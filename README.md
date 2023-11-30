@@ -53,6 +53,8 @@
 ![image](https://github.com/nhabiba/Smart-Home/assets/109957486/e82d94a5-0c15-4f2e-9642-604bb9bc83d0)
 ### Vérification dans la base de donnée:
 ![image](https://github.com/nhabiba/Smart-Home/assets/109957486/f988ceb0-dd30-43a3-a4f3-a21849d08fff)
+## Si on clique sur le button OFF il devient ON :
+
 
 
 
