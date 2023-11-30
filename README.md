@@ -23,3 +23,5 @@
 ### La gestion des catégories fait référence à la manière dont les éléments, produits ou informations sont organisés, ajoutés, modifiés ou supprimés dans une structure de classification spécifique:
 ![image](https://github.com/nhabiba/Smart-Home/assets/109957486/e14b23dc-ebec-40b3-86a9-d9fbb57e6539)
 ### Ajouter une catégorie : Cette fonctionnalité permet d'ajouter de nouvelles catégories à votre système:
+![image](https://github.com/nhabiba/Smart-Home/assets/109957486/6e6d1336-85db-4423-9c54-7f82776dd92f)
+### Vérification dans la base de donnée:
