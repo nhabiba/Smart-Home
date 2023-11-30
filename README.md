@@ -28,5 +28,10 @@
 ![image](https://github.com/nhabiba/Smart-Home/assets/109957486/da09a41b-26a2-4b7f-a578-8e85b4a9c890)
 ### Modifier une catégorie : Une fois qu'une catégorie est créée, il est souvent nécessaire de pouvoir la modifier. Cela peut inclure la modification du nom, de la description, voire des attributs associés à cette catégorie:
 
+![image](https://github.com/nhabiba/Smart-Home/assets/109957486/d5aa4d00-03ee-4265-ac9f-b69c0bb03851)
+
+
+
+
 
 
